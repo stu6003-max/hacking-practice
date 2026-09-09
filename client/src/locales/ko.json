@@ -1,0 +1,43 @@
+{
+  "common": {
+    "welcome": "해킹 연습 플랫폼에 오신 것을 환영합니다",
+    "login": "로그인",
+    "register": "회원가입",
+    "logout": "로그아웃",
+    "profile": "프로필",
+    "leaderboard": "리더보드",
+    "challenges": "문제",
+    "learning": "학습",
+    "submit": "제출",
+    "flag": "Flag",
+    "points": "포인트",
+    "difficulty": "난이도",
+    "category": "카테고리",
+    "easy": "쉬움",
+    "medium": "중간",
+    "hard": "어려움",
+    "expert": "전문가",
+    "solved": "해결됨",
+    "unsolved": "미해결"
+  },
+  "nav": {
+    "home": "홈",
+    "challenges": "CTF 문제",
+    "learning": "학습 자료",
+    "myPage": "내 페이지"
+  },
+  "categories": {
+    "web": "웹 해킹",
+    "crypto": "암호학",
+    "pwn": "시스템 해킹",
+    "forensics": "포렌식",
+    "reversing": "리버싱",
+    "misc": "기타"
+  },
+  "learning": {
+    "basics": "기초",
+    "beginner": "초급",
+    "intermediate": "중급",
+    "advanced": "고급"
+  }
+}

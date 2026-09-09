@@ -1,0 +1,43 @@
+{
+  "common": {
+    "welcome": "Welcome to Hacking Practice Platform",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "leaderboard": "Leaderboard",
+    "challenges": "Challenges",
+    "learning": "Learning",
+    "submit": "Submit",
+    "flag": "Flag",
+    "points": "Points",
+    "difficulty": "Difficulty",
+    "category": "Category",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "expert": "Expert",
+    "solved": "Solved",
+    "unsolved": "Unsolved"
+  },
+  "nav": {
+    "home": "Home",
+    "challenges": "CTF Challenges",
+    "learning": "Learning Materials",
+    "myPage": "My Page"
+  },
+  "categories": {
+    "web": "Web Hacking",
+    "crypto": "Cryptography",
+    "pwn": "System Hacking",
+    "forensics": "Forensics",
+    "reversing": "Reverse Engineering",
+    "misc": "Miscellaneous"
+  },
+  "learning": {
+    "basics": "Basics",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  }
+}
